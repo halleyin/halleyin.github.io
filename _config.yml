@@ -1,18 +1,16 @@
 # Site settings
 title: Halleyin
 legal_title: Halleyin Software Consultancy LTD
-email: halleyinsoftware@hotmail.com
+email: info@halleyin.com
 description: "Software and IT Consultancy Services"
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin.com/halleyin
-  - title: instagram
-    url: https://www.instagram.com/halleyinsoftware
+    url: https://www.linkedin.com/company/halleyin-software-consultancy/
   - title: envelope
-    url: mailto:halleyinsoftware@hotmail.com
+    url: mailto:info@halleyin.com
 
 # Postal address (add as many lines as necessary)
 address:
