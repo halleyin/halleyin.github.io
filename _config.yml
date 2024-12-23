@@ -14,7 +14,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Oxford House, 12 – 20 Oxford Street, Newbury, Berkshire, RG14 1JB
+  - line: Suite 5336, Unit 3A, 34-35 Hatton Garden, Holborn, London, EC1N 8DX
 
 # Build settings
 markdown: kramdown
